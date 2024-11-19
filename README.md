@@ -1,1 +1,2 @@
-# Yakamoz
+# Yakamoz yer kontrol istasyonu
+
